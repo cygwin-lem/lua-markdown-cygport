@@ -1,5 +1,5 @@
 category: Lua
-requires:  lua51
+requires: lua51
 sdesc: "Markdown text-to-html markup system"
 ldesc: "A pure-lua implementation of the Markdown text-to-html markup system.
 "
